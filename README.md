@@ -47,8 +47,5 @@ The **LSTM aggregator** requires significantly more GPU memory than Mean or Pool
 
 For this reason, only the Mean and Pooling aggregators were successfully trained.
 
----
-
-## 📁 Project Structure
 
 
